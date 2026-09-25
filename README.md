@@ -30,8 +30,7 @@ I work across the full data analysis pipeline, cleaning and exploring raw data, 
 * [LinkedIn](https://www.linkedin.com/in/jeremywuwuwu/)
 * [Tableau Public](https://public.tableau.com/app/profile/jeremy.wu8830/vizzes)
 
-## More about me
-When I'm free, I like to
+## Hobbies
 * 🥊 train muay thai
 * 🤖 build/test/explore new AI tools
 * 🌅 scenic walks
