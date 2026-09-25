@@ -1,4 +1,4 @@
-## Hi, I'm Jeremy 👋
+# Hi, I'm Jeremy 👋
 
 ### Actively looking for: 
 [co-op] positions in Data Analytics, Data Science, Machine Learning Engineer
@@ -6,19 +6,13 @@
 
 I am currently completing my Master of Professional Studies in Analytics at Northeastern University's Seattle campus, with a concentration in Applied Machine Intelligence. I am also currently a Data Analyst Associate at Northeastern's Career Development Team. I previously graduated from the University of Washington with a Bachelor's in Sociology and Informatics. 
 
-I work across the full analysis pipeline, cleaning and exploring raw data, then applying inferential statistical methods to produce actionable insights and results. I also build and tune machine learning models across a range of architectures.
-
-## Resume
-* [Jeremy [Last] — Data Analytics](LINK)
-
-## 📬 Connect with Me
-* [LinkedIn](LINK)
-* [Tableau Public](LINK)
+I work across the full data analysis pipeline, cleaning and exploring raw data, then applying inferential statistical methods to produce actionable insights and results. I also build and tune machine learning models across a range of architectures.
 
 ## 🏆 Projects
 
 **2026**
 * [AdaptX — From Drug Combinations to Clinical Regimens](LINK) *(in progress)*
+* [Predicting FDA Food Recall Severity: Structured Fields vs. Recall Text](LINK) *(in progress)*
 * [Electricity Forecasting: SARIMA vs. Gradient Boosting](LINK)
 * [Monte Carlo Flight Delay Simulation](LINK)
 
@@ -31,11 +25,19 @@ I work across the full analysis pipeline, cleaning and exploring raw data, then 
 * [Drug Overdose Trends Analysis (R)](LINK)
 * [Healthcare Dataset Analysis (R)](LINK)
 
+## Connect with Me
+* [Portfolio](https://jeremywuwuwu.manus.space)
+* [LinkedIn](https://www.linkedin.com/in/jeremywuwuwu/)
+* [Tableau Public](https://public.tableau.com/app/profile/jeremy.wu8830/vizzes)
+
 ## More about me
 When I'm free, I like to
-* 🥊 train Muay Thai
-* 🍳 cook
-* ✍️ practice Traditional Chinese calligraphy
+* 🥊 train muay thai
+* 🤖 build/test/explore new AI tools
+* 🌅 scenic walks
+* 🏋️ gym
+* 🍜 try new food/restaurants
+
 <!--
 **Jeremywuwuwu/Jeremywuwuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
