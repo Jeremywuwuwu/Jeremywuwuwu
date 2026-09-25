@@ -1,8 +1,8 @@
 # Hi, I'm Jeremy 👋
 
-### Actively looking for: 
-[co-op] positions in Data Analytics, Data Science, Machine Learning Engineer
-[full-time] roles in Data Analytics/Data Science
+### Actively looking for
+* **Co-op** — Data Analytics, Data Science, Machine Learning Engineering
+* **Full-time** — Data Analytics / Data Science
 
 I am currently completing my Master of Professional Studies in Analytics at Northeastern University's Seattle campus, with a concentration in Applied Machine Intelligence. I am also currently a Data Analyst Associate at Northeastern's Career Development Team. I previously graduated from the University of Washington with a Bachelor's in Sociology and Informatics. 
 
@@ -13,22 +13,24 @@ I work across the full data analysis pipeline, cleaning and exploring raw data, 
 **2026**
 * [AdaptX — From Drug Combinations to Clinical Regimens](LINK) *(in progress)*
 * [Predicting FDA Food Recall Severity: Structured Fields vs. Recall Text](LINK) *(in progress)*
-* [Electricity Forecasting: SARIMA vs. Gradient Boosting](LINK)
-* [Monte Carlo Flight Delay Simulation](LINK)
+
 
 **2025**
-* [Fentanyl Overdose Prediction (Python, scikit-learn)](LINK)
-* [Walmart Sales Time Series Forecasting (ARIMA)](LINK)
-* [Amazon Product Segmentation (K-Means, R)](LINK)
-* [Salary Determinants Analysis (ANOVA, Regression, R)](LINK)
-* [Digit Classification: KNN vs. MLP](LINK)
-* [Drug Overdose Trends Analysis (R)](LINK)
-* [Healthcare Dataset Analysis (R)](LINK)
+* [Electricity Forecasting: SARIMA vs. Gradient Boosting](https://github.com/Jeremywuwuwu/electricityload_sarima_gradientboosting)
+* [Predicting Sale Price vs Assessed Value: Tree Based Models](https://github.com/Jeremywuwuwu/housing_classification_tree_models)
+* [Income Classification: KNN vs AutoGluon AutoML on Census Data](https://github.com/Jeremywuwuwu/KNN_AutoGluon)
+* [Monte Carlo Flight Delay Simulation](https://github.com/Jeremywuwuwu/flight_delays-monte_carlo_simulation)
+* [Digit Classification: KNN vs. MLP](https://github.com/Jeremywuwuwu/digitclassification_neuralnetwork)
+* [Walmart Sales Time Series Forecasting (ARIMA)](https://github.com/Jeremywuwuwu/Time_Series_Forecast-ARIMA-LR-)
+* [Amazon Product Segmentation (K-Means, R)](https://github.com/Jeremywuwuwu/Clustering-TukeyTest)
 
-## Connect with Me
-* [Portfolio](https://jeremywuwuwu.manus.space)
-* [LinkedIn](https://www.linkedin.com/in/jeremywuwuwu/)
-* [Tableau Public](https://public.tableau.com/app/profile/jeremy.wu8830/vizzes)
+
+**2024**
+* [Fentanyl Overdose Prediction (Python, scikit-learn)](https://github.com/Jeremywuwuwu/DrugOverdoseInConnecticut)
+* [Salary Determinants Analysis (ANOVA, Regression, Chi-Square R)](https://github.com/Jeremywuwuwu/salary_analysis_anova-chisquare-regression)
+* [Predicting Campaign Response: Logistic Regression vs Linear SVM](https://github.com/Jeremywuwuwu/SVM_LogisticRegression)
+* [Drug Overdose Trends Analysis (R)](https://github.com/Jeremywuwuwu/DrugDeathRatesAcrossUS)
+* [Healthcare Dataset Analysis (R)](https://github.com/Jeremywuwuwu/HealthcareAnalysis)
 
 ## Hobbies
 * 🥊 train muay thai
