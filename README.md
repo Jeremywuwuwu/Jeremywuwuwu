@@ -1,14 +1,14 @@
 # Hi, I'm Jeremy 👋
 
 ### Actively looking for
-* **Co-op** — Data Analytics, Data Science, Machine Learning Engineering
+* **Co-op** — Data Analytics / Data Science / Machine Learning Engineer
 * **Full-time** — Data Analytics / Data Science
 
-I am currently completing my Master of Professional Studies in Analytics at Northeastern University's Seattle campus, with a concentration in Applied Machine Intelligence. I am also currently a Data Analyst Associate at Northeastern's Career Development Team. I previously graduated from the University of Washington with a Bachelor's in Sociology and Informatics. 
+I am currently completing the Master of Professional Studies in Analytics at Northeastern University's Seattle campus, with a concentration in Applied Machine Intelligence. I am also currently a Data Analyst Associate at Northeastern's Career Development Team. I previously graduated from the University of Washington with a Bachelor's in Sociology and Informatics. 
 
 I work across the full data analysis pipeline, cleaning and exploring raw data, then applying inferential statistical methods to produce actionable insights and results. I also build and tune machine learning models across a range of architectures.
 
-## 🏆 Projects
+## Projects 🏆
 
 **2026**
 * [AdaptX — From Drug Combinations to Clinical Regimens](LINK) *(in progress)*
@@ -32,7 +32,7 @@ I work across the full data analysis pipeline, cleaning and exploring raw data, 
 * [Drug Overdose Trends Analysis (R)](https://github.com/Jeremywuwuwu/DrugDeathRatesAcrossUS)
 * [Healthcare Dataset Analysis (R)](https://github.com/Jeremywuwuwu/HealthcareAnalysis)
 
-## Hobbies
+## Hobbies 
 * 🥊 train muay thai
 * 🤖 build/test/explore new AI tools
 * 🌅 scenic walks
