@@ -1,6 +1,6 @@
-# Hi, I'm Jeremy 👋
+# Hi, I'm Jeremy Wu 👋
 
-### Actively looking for
+### I am actively looking for
 * **Co-op** — Data Analytics / Data Science / Machine Learning Engineer
 * **Full-time** — Data Analytics / Data Science
 
