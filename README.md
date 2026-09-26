@@ -4,7 +4,7 @@
 * **Co-op** — Data Analytics / Data Science / Machine Learning Engineer
 * **Full-time** — Data Analytics / Data Science
 
-I am currently completing the Master of Professional Studies in Analytics at Northeastern University's Seattle campus, with a concentration in Applied Machine Intelligence. I am also currently a Data Analyst Associate at Northeastern's Career Development Team. I previously graduated from the University of Washington with a Bachelor's in Sociology and Informatics. 
+I am currently completing the Master of Professional Studies in Analytics at Northeastern University's Seattle campus, with a concentration in Applied Machine Intelligence. My expected graduation date is June 2027, and I am currently a Data Analyst Associate at Northeastern's Career Development Team. I previously graduated from the University of Washington with a Bachelor's in Sociology and Informatics. 
 
 I work across the full data analysis pipeline, cleaning and exploring raw data, then applying inferential statistical methods to produce actionable insights and results. I also build and tune machine learning models across a range of architectures.
 
