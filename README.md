@@ -2,7 +2,7 @@
 
 [Resume]()
 
-### I am actively looking for
+### I am actively looking for positions in:
 * **Co-op** — Data Analytics / Data Science / Machine Learning Engineer
 * **Full-time** — Data Analytics / Data Science
 
