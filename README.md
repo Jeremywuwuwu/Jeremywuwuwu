@@ -18,6 +18,7 @@ I work across the full analysis pipeline: cleaning, exploring, and engineering f
 
 
 **2025**
+* [Wine Clustering: GMM vs Hierarchical w/ PCA Analysis](https://github.com/Jeremywuwuwu/wine-clustering-gmm-hierarchical-pca/blob/main/Clustering.ipynb)
 * [Electricity Forecasting: SARIMA vs. Gradient Boosting](https://github.com/Jeremywuwuwu/electricityload_sarima_gradientboosting)
 * [Predicting Sale Price vs Assessed Value: Tree Based Models](https://github.com/Jeremywuwuwu/housing_classification_tree_models)
 * [Income Classification: KNN vs AutoGluon AutoML on Census Data](https://github.com/Jeremywuwuwu/KNN_AutoGluon)
