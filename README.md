@@ -14,7 +14,7 @@ I work across the full analysis pipeline: cleaning, exploring, and engineering f
 
 **2026**
 * [AdaptX — From Drug Combinations to Clinical Regimens](LINK) *(in progress)*
-* [Predicting FDA Food Recall Severity: Structured Fields vs. Recall Text](LINK) *(in progress)*
+* [Predicting FDA Food Recall Severity: Structured Fields vs. Recall Text](https://github.com/Jeremywuwuwu/fda-foodrecall-MLclassification) *(in progress)*
 
 
 **2025**
