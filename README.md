@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy Wu 👋
 
-[Resume]()
+[Resume](https://drive.google.com/file/d/1xg-TGgsaCKMBI7RKEYfwh7vNXA13ENYN/view?usp=sharing)
 
 ### I am actively looking for positions in:
 * **Co-op** — Data Analytics / Data Science / Machine Learning Engineer
