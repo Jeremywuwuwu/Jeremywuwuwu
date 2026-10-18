@@ -15,6 +15,7 @@ I work across the full analysis pipeline: cleaning, exploring, and engineering f
 **2026**
 * [AdaptX — From Drug Combinations to Clinical Regimens](LINK) *(in progress)*
 * [Predicting FDA Food Recall Severity: Structured Fields vs. Recall Text](https://github.com/Jeremywuwuwu/fda-foodrecall-MLclassification) *(in progress)*
+* [ML Model Comparison on UCI CC Dataset Predicting Credit Card Defaults](https://github.com/Jeremywuwuwu/creditcarddefault-MLmodels-rf-svm-naivebayes/blob/main/CreditCard_ML_ModelComparison.ipynb)
 
 
 **2025**
